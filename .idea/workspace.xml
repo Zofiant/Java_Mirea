@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d82777ed-e8e1-41c3-b6eb-a0e855862f6a" name="Changes" comment="a" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2VX5HW1cFyM3xA7hkSzCUBObXVu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Java/MIREA_JAVA2.0-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/olegk/IdeaProjects/MIREA_JAVA/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.RPNCalculatorMain">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab20.Calculator" />
+      <module name="MIREA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Guessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab16.Guessing" />
+      <module name="MIREA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabClassDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab19.LabClassDriver" />
+      <module name="MIREA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPNCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab22.RPNCalculator" />
+      <module name="MIREA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPNCalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab22.RPNCalculatorMain" />
+      <module name="MIREA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RPNCalculatorMain" />
+        <item itemvalue="Application.RPNCalculator" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Guessing" />
+        <item itemvalue="Application.LabClassDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d82777ed-e8e1-41c3-b6eb-a0e855862f6a" name="Changes" comment="" />
+      <created>1694969499944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694969499944</updated>
+      <workItem from="1694969501361" duration="1883000" />
+      <workItem from="1695026058484" duration="12293000" />
+      <workItem from="1695233432792" duration="2123000" />
+      <workItem from="1695235977428" duration="1443000" />
+      <workItem from="1695586692627" duration="316000" />
+      <workItem from="1702334056380" duration="72000" />
+    </task>
+    <task id="LOCAL-00001" summary="vdvdvd">
+      <option name="closed" value="true" />
+      <created>1695026462749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695026462749</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vdvdvd">
+      <option name="closed" value="true" />
+      <created>1695026636724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695026636724</updated>
+    </task>
+    <task id="LOCAL-00003" summary="vdvdvd">
+      <option name="closed" value="true" />
+      <created>1695057578447</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695057578447</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2 и 3 задания">
+      <option name="closed" value="true" />
+      <created>1695057829244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695057829244</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1 задание">
+      <option name="closed" value="true" />
+      <created>1695060866338</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695060866338</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2 задание">
+      <option name="closed" value="true" />
+      <created>1695069002577</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695069002577</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vdvdvd" />
+    <MESSAGE value="2 и 3 задания" />
+    <MESSAGE value="1 задание" />
+    <MESSAGE value="2 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 задание" />
+  </component>
+</project>
